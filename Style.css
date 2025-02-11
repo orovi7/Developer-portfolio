@@ -189,7 +189,7 @@ h1{
 .skills{
     height: 300px;
     width: 80%;
-    margin: 100px 0 0 10%;
+    margin: 50px 0 0 10%;
     /* background-color: blue; */
     display: flex;
 
@@ -207,5 +207,102 @@ h1{
 }
 .resume{
     text-align: center;
-    margin: 100px;
+    margin: 100px 0 0 0;
+}
+.summury-container{
+    height: 550px;
+    width: 80%;
+    margin: 50px 0 0 10%;
+    display: flex;
+    /* background-color: aqua; */
+    /* justify-content: space-around; */
+    
+}
+.summury-left{
+    height: 550px;
+    width: 48%;
+    /* background-color: red; */
+    margin-right: 50px;
+    
+}
+.summury-right{
+    height: 550px;
+    width: 48%;
+    /* background-color: yellow; */
+}
+.mid-text{
+    margin: 20px 0 10px 0px;
+    
+}
+.small-mid{
+
+}
+.small-p{
+    margin: 15px 30px 20px 0;
+}
+.download-2{
+    height: 50px;
+    width: 150px;
+    background-color: #FD6E0A;
+    color: white;
+    padding: 12px 0 0 16px;
+    font-weight: 500;
+    border-radius: 3px;
+    border: none;
+   margin: 10px 0 100px 680px;
+}
+.footer{
+    height: 600px;
+    width: 100%;
+    background-color: #FFF8F3;
+   
+   padding-top: 80px;
+}
+.footer-container{
+    height: 450px;
+    width: 80%;
+    /* background-color: blue; */
+    margin: 0px 0 0 10%;
+    display: flex;
+    
+}
+.footer-left{
+    height: 450px;
+    width: 48%;
+    /* background-color: rosybrown; */
+    margin-right: 80px;
+    margin-left: 20px;
+}
+.footer-right{
+    height: 450px;
+    width: 40%;
+    /* background-color: yellow; */
+}
+.left-f-p{
+    margin: 10px 50px 20px 0;
+    color: #474747;
+}
+.ic{
+    margin: 0 10px 0 0;
+}
+
+.input, .email, textarea{
+    display: block;
+    margin: 20px 0 0 0;
+    padding: 20px;
+    border: none;
+    width: 100%;
+    color: #757575;
+}
+.submit{
+    height: 50px;
+    width: 120px;
+    background-color: #FD6E0A;
+    color: white;
+   
+    font-weight: 600;
+    border-radius: 3px;
+    border: none;
+    margin: 20px 0 0 180px;
+    cursor: pointer;
 }
