@@ -207,7 +207,7 @@ h1{
 }
 .resume{
     text-align: center;
-<<<<<<< HEAD:Style.css
+
     margin: 100px 0 0 0;
 }
 .summury-container{
@@ -307,7 +307,4 @@ h1{
     margin: 20px 0 0 180px;
     cursor: pointer;
 }
-=======
-    margin: 100px;
-}
->>>>>>> 2b40cb197b72308794daa6564616b6883cd01371:style.css
+
